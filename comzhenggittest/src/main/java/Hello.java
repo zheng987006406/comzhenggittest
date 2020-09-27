@@ -1,0 +1,10 @@
+/**
+ * @Description TODO
+ * @Author zheng
+ * @Date 2020/9/27 11:27
+ **/
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
